@@ -1,0 +1,4 @@
+- Mongo DB
+- Express.js
+- React.js
+- Node.js
