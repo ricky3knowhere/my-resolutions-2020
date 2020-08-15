@@ -2,4 +2,7 @@
 - Express.js
 - React.js
 - Node.js
+  * server 
+  * routing
 - CSS Layouting
+- Basic Javascript
