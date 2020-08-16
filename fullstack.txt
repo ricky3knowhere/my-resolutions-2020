@@ -1,4 +1,5 @@
 - Mongo DB
+  * basic of non relation database
 - Express.js
 - React.js
 - Node.js
@@ -6,4 +7,3 @@
   * server 
   * routing
 - CSS Layouting
-- Basic Javascript
